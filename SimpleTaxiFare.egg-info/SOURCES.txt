@@ -1,0 +1,10 @@
+MANIFEST.in
+requirements.txt
+setup.py
+SimpleTaxiFare/__init__.py
+SimpleTaxiFare/trainer.py
+SimpleTaxiFare.egg-info/PKG-INFO
+SimpleTaxiFare.egg-info/SOURCES.txt
+SimpleTaxiFare.egg-info/dependency_links.txt
+SimpleTaxiFare.egg-info/requires.txt
+SimpleTaxiFare.egg-info/top_level.txt
